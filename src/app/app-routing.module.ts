@@ -8,7 +8,7 @@ const routes: Routes = [
   {
     path: "",
     // comment out this 2 line to make any landing demo as your root .
-    redirectTo: "landing/demos",
+    redirectTo: "landing/v3",
 
     pathMatch: "full",
 
